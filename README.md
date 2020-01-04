@@ -2,6 +2,12 @@
 
 This repository hosts feedback for the [Leanpub](https://leanpub.com/) book [Build PowerShell Modules](https://leanpub.com/building-powershell-modules).
 
+<p align="center">
+    <a href="https://leanpub.com/building-powershell-modules" target="_blank" title="Building PowerShell Modules">
+        <img src="https://github.com/devblackops/building-powershell-modules-feedback/raw/master/media/title_page.png" alt="ChatOps the Easy Way" height="400px">
+    </a>
+</p>
+
 It is an agile-published book, meaning updates are published as they are written. If you've purchased the book (thanks!👍) and have some feedback to give, please do so here. I'll try to incorporate as much as I can back into the book if it makes sense.
 
 > If giving feedback on a particular section of the book, please be specific on exactly *where* in the book (chapter/section/subsection) so corrections can be made as quickly as possible. 🙏
