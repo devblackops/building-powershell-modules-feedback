@@ -8,7 +8,7 @@ This repository hosts feedback for the [Leanpub](https://leanpub.com/) book [Bui
     </a>
 </p>
 
-It is an agile-published book, meaning updates are published as they are written. If you've purchased the book (thanks!👍) and have some feedback to give, please do so here. I'll try to incorporate as much as I can back into the book if it makes sense.
+[Building PowerShell Modules](https://leanpub.com/building-powershell-modules) is an agile-published book, meaning updates are published as they are written. If you've purchased the book (thanks!👍) and have some feedback to give, please do so here. I'll try to incorporate as much as I can back into the book if it makes sense.
 
 > If giving feedback on a particular section of the book, please be specific on exactly *where* in the book (chapter/section/subsection) so corrections can be made as quickly as possible. 🙏
 
